@@ -8,5 +8,7 @@ A collection of exercises and challenges
   * [03 Seek and Destroy](fcc/Legacy%20JavaScript%20Algorithms%20and%20Data%20Structures/03%20Seek%20and%20Destroy.md)
   * [04 Wherefore art thou](fcc/Legacy%20JavaScript%20Algorithms%20and%20Data%20Structures/04%20Wherefore%20art%20thou.md)
   * [05 Spinal Tap Case](fcc/Legacy%20JavaScript%20Algorithms%20and%20Data%20Structures/05%20Spinal%20Tap%20Case.md)
+  * [06 Pig Latin](fcc/Legacy%20JavaScript%20Algorithms%20and%20Data%20Structures/06%20Pig%20Latin.md)
+  * [07 Search and Replace](fcc/Legacy%20JavaScript%20Algorithms%20and%20Data%20Structures/07%20Search%20and%20Replace.md)
 
 
