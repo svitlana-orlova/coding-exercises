@@ -1,2 +1,2 @@
 # coding-exercises
-A collection of exercises and challenges
+Collection of exercises and challenges
