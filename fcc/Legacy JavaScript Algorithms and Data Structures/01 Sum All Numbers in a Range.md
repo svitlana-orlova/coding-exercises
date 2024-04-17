@@ -4,3 +4,11 @@ always come first.
 
 For example, `sumAll([4,1])` should return `10` because sum of all the numbers
 between `1` and `4` (both inclusive) is `10`.
+
+```javascript
+function sumAll(arr) {
+  return 1;
+  }
+
+  sumAll([1, 4]);
+```
