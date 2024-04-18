@@ -15,11 +15,13 @@ function translatePigLatin(str) {
 translatePigLatin("consonant");
 ```
 
+```
 translatePigLatin("california") should return the string aliforniacay.
-Waiting:translatePigLatin("paragraphs") should return the string aragraphspay.
-Waiting:translatePigLatin("glove") should return the string oveglay.
-Waiting:translatePigLatin("algorithm") should return the string algorithmway.
-Waiting:translatePigLatin("eight") should return the string eightway.
-Waiting:Should handle words where the first vowel comes in the middle of the word. translatePigLatin("schwartz") should return the string artzschway.
-Waiting:Should handle words without vowels. translatePigLatin("rhythm") should return the string rhythmay.
+translatePigLatin("paragraphs") should return the string aragraphspay.
+translatePigLatin("glove") should return the string oveglay.
+translatePigLatin("algorithm") should return the string algorithmway.
+translatePigLatin("eight") should return the string eightway.
+Should handle words where the first vowel comes in the middle of the word. translatePigLatin("schwartz") should return the string artzschway.
+Should handle words without vowels. translatePigLatin("rhythm") should return the string rhythmay.
+```
 
