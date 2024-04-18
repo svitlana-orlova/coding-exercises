@@ -26,21 +26,21 @@ const Person = function(first, last) {
 
 ```
 You should not change the function signature.
-Waiting:You should not reassign the first parameter.
-Waiting:You should not reassign the last parameter.
-Waiting:No properties should be added. Object.keys(Person).length should always return 6.
-Waiting:You should be able to instantiate your Person object.
-Waiting:Your Person object should not have a firstName property.
-Waiting:Your Person object should not have a lastName property.
-Waiting:The .getFirstName() method should return the string Bob.
-Waiting:The .getLastName() should return the string Ross.
-Waiting:The .getFullName() method should return the string Bob Ross.
-Waiting:The .getFullName() method should return the string Haskell Ross after calling .setFirstName('Haskell').
-Waiting:The .getFullName() method should return the string Bob Curry after calling .setLastName('Curry').
-Waiting:The .getFullName() method should return the string Haskell Curry after calling .setFullName('Haskell', 'Curry').
-Waiting:The .getFirstName() method should return the string Haskell after calling .setFullName('Haskell', 'Curry').
-Waiting:The .getLastName() method should return the string Curry after calling .setFullName('Haskell', 'Curry').
-Waiting:The .getFullName() method should return the string Emily Martinez de la Rosa after calling .setFullName('Emily Martinez', 'de la Rosa').
-Waiting:The .getFirstName() property should return the string Emily Martinez after calling .setFullName('Emily Martinez', 'de la Rosa').
-Waiting:The .getLastName() property should return the string de la Rosa after calling .setFullName('Emily Martinez', 'de la Rosa').
+You should not reassign the first parameter.
+You should not reassign the last parameter.
+No properties should be added. Object.keys(Person).length should always return 6.
+You should be able to instantiate your Person object.
+Your Person object should not have a firstName property.
+Your Person object should not have a lastName property.
+The .getFirstName() method should return the string Bob.
+The .getLastName() should return the string Ross.
+The .getFullName() method should return the string Bob Ross.
+The .getFullName() method should return the string Haskell Ross after calling .setFirstName('Haskell').
+The .getFullName() method should return the string Bob Curry after calling .setLastName('Curry').
+The .getFullName() method should return the string Haskell Curry after calling .setFullName('Haskell', 'Curry').
+The .getFirstName() method should return the string Haskell after calling .setFullName('Haskell', 'Curry').
+The .getLastName() method should return the string Curry after calling .setFullName('Haskell', 'Curry').
+The .getFullName() method should return the string Emily Martinez de la Rosa after calling .setFullName('Emily Martinez', 'de la Rosa').
+The .getFirstName() property should return the string Emily Martinez after calling .setFullName('Emily Martinez', 'de la Rosa').
+The .getLastName() property should return the string de la Rosa after calling .setFullName('Emily Martinez', 'de la Rosa').
 ```
