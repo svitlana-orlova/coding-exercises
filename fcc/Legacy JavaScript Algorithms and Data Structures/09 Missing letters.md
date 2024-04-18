@@ -10,8 +10,10 @@ function fearNotLetter(str) {
 fearNotLetter("abce");
 ```
 
+```
 fearNotLetter("abce") should return the string d.
-Waiting:fearNotLetter("abcdefghjklmno") should return the string i.
-Waiting:fearNotLetter("stvwx") should return the string u.
-Waiting:fearNotLetter("bcdf") should return the string e.
-Waiting:fearNotLetter("abcdefghijklmnopqrstuvwxyz") should return undefined.
+fearNotLetter("abcdefghjklmno") should return the string i.
+fearNotLetter("stvwx") should return the string u.
+fearNotLetter("bcdf") should return the string e.
+fearNotLetter("abcdefghijklmnopqrstuvwxyz") should return undefined.
+```
