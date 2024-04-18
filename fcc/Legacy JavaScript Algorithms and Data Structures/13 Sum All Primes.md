@@ -25,7 +25,9 @@ function sumPrimes(num) {
 console.log(sumPrimes(10));
 ```
 
+```
 sumPrimes(10) should return a number.
-Failed:sumPrimes(10) should return 17.
-Failed:sumPrimes(977) should return 73156.
+sumPrimes(10) should return 17.
+sumPrimes(977) should return 73156.
+```
 
