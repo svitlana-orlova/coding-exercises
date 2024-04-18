@@ -32,5 +32,6 @@ A collection of exercises and challenges
 ### JavaScript Algorithms and Data Structures Projects
 
   * [01 Palindrome Checker](fcc/JavaScript%20Algorithms%20and%20Data%20Structures%20Projects/01%20Palindrome%20Checker.md)
+  * [02 Roman Numeral Converter](fcc/JavaScript%20Algorithms%20and%20Data%20Structures%20Projects/02%20Roman%20Numeral%20Converter.md)
 
 
