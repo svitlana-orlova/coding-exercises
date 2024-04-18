@@ -24,13 +24,15 @@ function addTogether() {
 addTogether(2,3);
 ```
 
+```
 addTogether(2, 3) should return 5.
-Waiting:addTogether(23.4, 30) should return 53.4.
-Waiting:addTogether("2", 3) should return undefined.
-Waiting:addTogether(5, undefined) should return undefined.
-Waiting:addTogether("https://www.youtube.com/watch?v=dQw4w9WgXcQ") should return undefined.
-Waiting:addTogether(5) should return a function.
-Waiting:addTogether(5)(7) should return 12.
-Waiting:addTogether(2)([3]) should return undefined.
-Waiting:addTogether(2, "3") should return undefined.
+addTogether(23.4, 30) should return 53.4.
+addTogether("2", 3) should return undefined.
+addTogether(5, undefined) should return undefined.
+addTogether("https://www.youtube.com/watch?v=dQw4w9WgXcQ") should return undefined.
+addTogether(5) should return a function.
+addTogether(5)(7) should return 12.
+addTogether(2)([3]) should return undefined.
+addTogether(2, "3") should return undefined.
+```
 
