@@ -34,11 +34,12 @@ console.log(smallestCommons([1,5]));
 console.log(smallestCommons([5, 1]));
 ```
 
+```
 smallestCommons([1, 5]) should return a number.
-Waiting:smallestCommons([1, 5]) should return 60.
-Waiting:smallestCommons([5, 1]) should return 60.
-Waiting:smallestCommons([2, 10]) should return 2520.
-Waiting:smallestCommons([1, 13]) should return 360360.
-Waiting:smallestCommons([23, 18]) should return 6056820.
-
+smallestCommons([1, 5]) should return 60.
+smallestCommons([5, 1]) should return 60.
+smallestCommons([2, 10]) should return 2520.
+smallestCommons([1, 13]) should return 360360.
+smallestCommons([23, 18]) should return 6056820.
+```
 
