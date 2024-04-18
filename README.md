@@ -1,7 +1,11 @@
 # coding-exercises
 A collection of exercises and challenges
 
+
+
 ## Legacy JavaScript Algorithms and Data Structures
+
+### Intermediate Algorithm Scripting
 
   * [01 Sum All Numbers in a Range](fcc/Legacy%20JavaScript%20Algorithms%20and%20Data%20Structures/01%20Sum%20All%20Numbers%20in%20a%20Range.md)
   * [02 Diff Two Arrays](fcc/Legacy%20JavaScript%20Algorithms%20and%20Data%20Structures/02%20Diff%20Two%20Arrays.md)
@@ -24,5 +28,9 @@ A collection of exercises and challenges
   * [19 Arguments Optional.md](fcc/Legacy%20JavaScript%20Algorithms%20and%20Data%20Structures/19%20Arguments%20Optional.md)
   * [20 Make a Person.md](fcc/Legacy%20JavaScript%20Algorithms%20and%20Data%20Structures/20%20Make%20a%20Person.md)
   * [21 Map the Debris.md](fcc/Legacy%20JavaScript%20Algorithms%20and%20Data%20Structures/21%20Map%20the%20Debris.md)
+
+### JavaScript Algorithms and Data Structures Projects
+
+  * [01 Palindrome Checker](fcc/JavaScript%20Algorithms%20and%20Data%20Structures%20Projects/01%20Palindrome%20Checker.md)
 
 
