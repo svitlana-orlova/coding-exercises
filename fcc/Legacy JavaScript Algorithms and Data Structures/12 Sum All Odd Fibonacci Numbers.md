@@ -17,10 +17,12 @@ function sumFibs(num) {
 sumFibs(4);
 ```
 
+```
 sumFibs(1) should return a number.
-Waiting:sumFibs(1000) should return 1785.
-Waiting:sumFibs(4000000) should return 4613732.
-Waiting:sumFibs(4) should return 5.
-Waiting:sumFibs(75024) should return 60696.
-Waiting:sumFibs(75025) should return 135721.
+sumFibs(1000) should return 1785.
+sumFibs(4000000) should return 4613732.
+sumFibs(4) should return 5.
+sumFibs(75024) should return 60696.
+sumFibs(75025) should return 135721.
+```
 
