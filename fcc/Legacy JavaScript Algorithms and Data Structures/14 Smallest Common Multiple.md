@@ -17,10 +17,28 @@ function smallestCommons(arr) {
 smallestCommons([1,5]);
 ```
 
+```javascript
+function smallestCommons(arr) {
+  const [min, max] = arr.sort((a, b) => a - b);
+  const gcd = (a, b) =>
+   (b === 0) ? a : gcd(b, a % b);
+  const lcm = (a, b) => a * b / gcd(a, b);
+  const nums = Array(max - min + 1)
+    .fill(0)
+    .map((x, i) => i + min);
+
+  return nums.reduce((a, x) => lcm(a, x));
+}
+
+console.log(smallestCommons([1,5]));
+console.log(smallestCommons([5, 1]));
+```
+
 smallestCommons([1, 5]) should return a number.
 Waiting:smallestCommons([1, 5]) should return 60.
 Waiting:smallestCommons([5, 1]) should return 60.
 Waiting:smallestCommons([2, 10]) should return 2520.
 Waiting:smallestCommons([1, 13]) should return 360360.
 Waiting:smallestCommons([23, 18]) should return 6056820.
+
 
