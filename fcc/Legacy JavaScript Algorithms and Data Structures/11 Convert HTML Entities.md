@@ -1,6 +1,14 @@
 Convert the characters `&`, `<`, `>`, `"` (double quote),
 and `'` (apostrophe), in a string to their corresponding HTML entities.
 
+```
+    '&': '&amp;',
+    '"': '&quot;',
+    "'": '&apos;',
+    '<': '&lt;',
+    '>': '&gt;'
+```
+
 ```javascript
 function convertHTML(str) {
   return str;
